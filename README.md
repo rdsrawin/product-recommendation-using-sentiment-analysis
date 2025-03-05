@@ -63,30 +63,6 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 ---
 
-## ⚙️ How to Run the Project
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Omshrivastav12/product-recommendation-sentiment-analysis.git
-   cd product-recommendation-sentiment-analysis
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the sentiment analysis and recommendation scripts**:
-   ```bash
-   python sentiment_analysis.py
-   python recommendation_system.py
-   ```
-
-4. **Customize with your own data**:
-   - Replace `data.csv` with your own dataset of product reviews for customized recommendations.
-
----
-
 ## 🚀 Future Improvements
 
 - Add deep learning models to improve sentiment analysis accuracy.
@@ -95,12 +71,5 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out for questions or support:
-
-- **Name**: Om Subhash Shrivastav
-- **Email**: omshrivastav1005@gmail.com
-- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
 
 Happy recommending! 🌟
